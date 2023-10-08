@@ -1,0 +1,32 @@
+[
+  {
+    "wallpaper":"/images/wp1971153-metal-music-wallpaper-hd.jpg",
+    "name":"Metal",
+    "category": "heavy",
+    "info":"Metal music is a genre of rock music that emerged in the late 1960s and early 1970s. It is characterized by its heavy sound, aggressive guitar riffs, distorted guitars, and powerful vocals. Metal music often incorporates elements of blues, classical music, and other genres, and it is known for its high energy and intensity."
+  },
+  {
+    "wallpaper":"/images/wp1966131-jazz-album-cover-desktop-and-mobile-wallpapers.jpg",
+    "name":"Jazz",
+    "category": "blues",
+    "info":"Jazz music is a genre that originated in the late 19th and early 20th centuries in the United States, particularly in African American communities. It is characterized by its improvisational nature, complex rhythms, and syncopation. Jazz incorporates elements of African, European, and American musical traditions, blending them together to create a unique sound"
+  },
+  {
+    "wallpaper":"/images/wp2458885-music-rock-wallpapers.jpg",
+    "name":"Rock",
+    "category": "soft",
+    "info":"Rock music is a broad genre that originated in the 1950s and has since evolved and diversified into various subgenres. It is characterized by its use of electric guitars, drums, bass, and often features strong vocals. Rock music typically emphasizes rhythm, catchy melodies, and a rebellious or energetic attitude"
+  },
+  {
+    "wallpaper":"/images/wp2059355-gary-moore-wallpapers.jpg",
+    "name":"Blues",
+    "category": "blue",
+    "info":"Blues music is a genre that originated in the African American communities of the United States in the late 19th century. It has its roots in African musical traditions, work songs, spirituals, and folk music. Blues is known for its emotional expression, typically conveying feelings of sadness, longing, and struggle."
+  },
+  {
+    "wallpaper":"/images/HOMqYXy-classical-music-wallpaper.jpg",
+    "name":"Classical",
+    "category": "classic",
+    "info":"Classical music is a genre of Western art music that spans a vast range of styles, compositions, and time periods. It originated in Europe during the medieval and Renaissance periods and developed further during the Baroque, Classical, Romantic, and Modern eras. Classical music is known for its complexity, rich instrumentation, and adherence to established forms and structures"
+  }
+]
